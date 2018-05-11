@@ -149,5 +149,5 @@ def deleteTask(id):
     return jsonify({'message':'success delete'})
 
 
-if __name__=='__main__':
-    app.run()
+# if __name__=='__main__':
+#     app.run()
